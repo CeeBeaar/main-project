@@ -1,0 +1,210 @@
+html,body {
+	width: 100%;
+	height: 100%;
+}
+
+.container {
+	width: 1280px;
+	height: 3570px;
+	background-color: #EAEAEA;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -12.5%);
+}
+
+.logo {
+	padding-top: 30px;
+	padding-left: 79px;
+	position: relative;
+	z-index: -1;
+}
+
+.intro {
+	color: black;
+	font-size: 20px;
+	font-family: Avenir, Arial, sans-serif;
+	width: 1092px;
+	margin-bottom: -50px;
+	margin-left: 20px;
+}
+
+.header {
+	color: #3357CC;
+	font-size: 24px;
+	font-weight: bold;
+	font-family: Futura, sans-serif;
+	margin-bottom: -15px;
+	padding-top: 58px;
+	margin-left: 20px;
+}
+
+.box {
+	width: 1122px;
+	height: 690px;
+	position: relative;
+	background-color: white;
+	margin-left: 79px;
+	margin-top: -460px;
+}
+
+.parallax-container {
+	width: 1122px;
+	height: 992px;
+}
+
+.hero {
+	margin-left: 79px;
+	margin-top: 40px;
+	background: url("images/hero.jpg");
+	height: 75%;
+	width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.left {
+	position: relative;
+	float: left;
+}
+
+.right {
+	position: relative;
+	float: right;
+	margin-right: 250px;
+}
+
+ul {
+	margin-top: 30px;
+	margin-left: 20px;
+}
+
+li {
+	color: black;
+	font-size: 20px;
+	font-family: Avenir, Arial, sans-serif;
+}
+
+.box2 {
+	width: 1122px;
+	height: 515px;
+	position: relative;
+	background-color: white;
+	margin-top: 180px;
+}
+
+.header2 {
+	color: #3357CC;
+	font-size: 24px;
+	font-weight: bold;
+	font-family: Futura, sans-serif;
+	margin-bottom: -25px;
+	padding-top: 15px;
+	margin-left: 20px;
+}
+
+.indent {
+	margin-top: -5px;
+}
+
+.box3 {
+	width: 1122px;
+	height: 330px;
+	position: relative;
+	background-color: white;
+	margin-top: 10px;
+}
+
+.box4 {
+	width: 1122px;
+	height: 675px;
+	position: relative;
+	background-color: white;
+	margin-top: 10px;
+}
+
+.box5 {
+	width: 1122px;
+	height: 455px;
+	position: relative;
+	background-color: white;
+	margin-top: 10px;
+}
+
+.care {
+	color: black;
+	font-size: 20px;
+	font-family: Avenir, Arial, sans-serif;
+	width: 1122px;
+	margin-left: 20px;
+	padding-top: 10px;
+}
+
+.link {
+	color: #3939FF;
+	font-size: 20px;
+	font-family: Avenir, Arial, sans-serif;
+	margin-left: 20px;
+}
+
+.top {
+	color: #3357CC;
+	font-size: 14px;
+	font-family: Avenir, Arial, sans-serif;
+	text-align: center;
+}
+
+.nav {
+	float: right;
+	position: relative;
+	font-family: Avenir, Arial, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	margin-right: 79px;
+	margin-top: 70px;
+	color: #3939FF;
+}
+
+a:visited {
+	color: #0F1F52;
+}
+
+a:hover {
+	color: #00A7FF;
+}
+
+.systems {
+	float: right;
+	position: relative;
+	margin-right: 58px;
+	margin-top: 60px;
+}
+
+.chromosomes {
+	float: right;
+	position: relative;
+	margin-right: 58px;
+	margin-top: -5px;
+}
+
+.symptom {
+	float: right;
+	position: relative;
+	margin-right: 58px;
+	margin-top: 50px;
+}
+
+.communication {
+	float: right;
+	position: relative;
+	margin-right: 58px;
+	margin-top: -10px;
+}
+
+.helper {
+	float: right;
+	position: relative;
+	margin-right: 58px;
+	margin-top: -40px;
+}
